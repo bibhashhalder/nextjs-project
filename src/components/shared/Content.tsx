@@ -2,7 +2,7 @@
 import Image from 'next/image';
 import Aos from 'aos'
 import "aos/dist/aos.css";
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect } from 'react';
 import image from '@/assest/html.png'
 import image1 from '@/assest/css.png'
 import image2 from '@/assest/javascript.jpg'
